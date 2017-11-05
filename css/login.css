@@ -1,0 +1,25 @@
+.form-group h1:hover{
+    color: black;
+}
+.form-group {
+    margin: auto;
+    text-align: center;
+}
+.jumbotron{
+    width: 50%;
+    margin: auto;
+    opacity:0.8;
+    border-radius: 0.5em;
+}
+.jumbotron:hover {
+    opacity: 1;
+}
+.button{
+    margin: auto;
+}
+h1{
+    font-family: motor;
+    text-align: center;
+    color: #f3af2c;
+    font-size: 50px;
+}
